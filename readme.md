@@ -31,15 +31,15 @@ Note: the \$MYT yield is **on top** of the organic upfront stablecoin premium yo
 
 ## Other Users of MYSO
 MYSO v2 has been used by numerous token holders and treasuries, for example:
-* Enzyme holder earning ~\$12k USDC (97% APY) for lending [\$150k of \$MLN](https://etherscan.io/tx/0x1a13d7458ccb1611c0f7f75ffe49372b71b797d22a5ad8717bff8f036b04338e) for 30 days with a 110% strike
-* UMA holder earning ~\$7.4k USDC (45% APY) for lending [\$100k of \$UMA](https://etherscan.io/tx/0x2f43a000819fcfb7561e77b0c6a55a45e84f2504ac12ed5c930a1874a28284cc) for 60 days with a 120% strike
-* Golem holder earning ~\$6k USDC (104% APY) for lending [\$70k of \$GLM](https://etherscan.io/tx/0xf4c3905a1851eaffae4f25a38dc9b435db5bf15bba27120cd235e7e0d2ed0363) for 30 days with a 120% strike
-* Holo holder earning ~\$4.7k USDC (57% APY) for lending [\$100k of \$HOT](https://etherscan.io/tx/0x003e878355734a7902343a9d6b781e212121e72f84020cd06aa3d688bb62e18c) for 30 days with a 120% strike
-* Telos treasury lending \$150k of \$wTLOS for 30 days with a 110% strike ([Trx1](https://www.teloscan.io/tx/0xba6e00f66c05680dcab76e603e617501091b96a4b187c35f44469c4e35193fc3), [Trx2](https://www.teloscan.io/tx/0xe70f2e40442d5d276589686c9934a2d72492755db390795bb542ea7a3bc56bf1), [Trx3](https://www.teloscan.io/tx/0x4e07294253097871f3d20ffe7b9d91beca11b4f286f0cab5c3edd23912a7122c)), and another [\$100k of \$wTLOS](https://www.teloscan.io/tx/0x2db20b52cd3d5250b67a85c8700091a6411c1513683e313122b72619b3f2465d) for 30 days with a 110% strike.
-* DIA holder earning ~\$10.5k USDC (63% APY) for lending [\$100k of \$DIA](https://etherscan.io/tx/0x67f53cca963843035041a129626342fbd2581c3233615c8b33e80d3cee880cac) for 60 days with a 110% strike
-* Evmos treasury lending [\$100k of \$EVMOS](https://escan.live/tx/0x43decacfac2fef8eaae6ae4d3f60ec125776418fc1abf7f2b2611b8737b6b8ef) for 30 days with a 110% strike, and another [\$100k of \$EVMOS](https://escan.live/tx/0x43decacfac2fef8eaae6ae4d3f60ec125776418fc1abf7f2b2611b8737b6b8ef) for 30 days with a 120% strike
-* Beam holder lending [\$140k of \$BEAM](https://etherscan.io/tx/0x4fa00e8611f60e149f7bf6f65fcadf94889ecfb9ca147a8538f045d78210ebc2) for 30 days with a 140% strike
-* Liquity holder lending [\$150k of \$LQTY](https://etherscan.io/tx/0x408fd3633f8a678b3c42ab0f57bc964e4ce98c016b323c7d564459df3f262dd4) for 90 days with a 110% strike
+* **Enzyme holder** earning ~\$12k USDC (97% APY) for lending [\$150k of \$MLN](https://etherscan.io/tx/0x1a13d7458ccb1611c0f7f75ffe49372b71b797d22a5ad8717bff8f036b04338e) for 30 days with a 110% strike
+* **UMA holder** earning ~\$7.4k USDC (45% APY) for lending [\$100k of \$UMA](https://etherscan.io/tx/0x2f43a000819fcfb7561e77b0c6a55a45e84f2504ac12ed5c930a1874a28284cc) for 60 days with a 120% strike
+* **Golem holder** earning ~\$6k USDC (104% APY) for lending [\$70k of \$GLM](https://etherscan.io/tx/0xf4c3905a1851eaffae4f25a38dc9b435db5bf15bba27120cd235e7e0d2ed0363) for 30 days with a 120% strike
+* **Holo holder** earning ~\$4.7k USDC (57% APY) for lending [\$100k of \$HOT](https://etherscan.io/tx/0x003e878355734a7902343a9d6b781e212121e72f84020cd06aa3d688bb62e18c) for 30 days with a 120% strike
+* **Telos treasury** lending \$150k of \$wTLOS for 30 days with a 110% strike ([Trx1](https://www.teloscan.io/tx/0xba6e00f66c05680dcab76e603e617501091b96a4b187c35f44469c4e35193fc3), [Trx2](https://www.teloscan.io/tx/0xe70f2e40442d5d276589686c9934a2d72492755db390795bb542ea7a3bc56bf1), [Trx3](https://www.teloscan.io/tx/0x4e07294253097871f3d20ffe7b9d91beca11b4f286f0cab5c3edd23912a7122c)), and another [\$100k of \$wTLOS](https://www.teloscan.io/tx/0x2db20b52cd3d5250b67a85c8700091a6411c1513683e313122b72619b3f2465d) for 30 days with a 110% strike.
+* **DIA holder** earning ~\$10.5k USDC (63% APY) for lending [\$100k of \$DIA](https://etherscan.io/tx/0x67f53cca963843035041a129626342fbd2581c3233615c8b33e80d3cee880cac) for 60 days with a 110% strike
+* **Evmos treasury** lending [\$100k of \$EVMOS](https://escan.live/tx/0x43decacfac2fef8eaae6ae4d3f60ec125776418fc1abf7f2b2611b8737b6b8ef) for 30 days with a 110% strike, and another [\$100k of \$EVMOS](https://escan.live/tx/0x43decacfac2fef8eaae6ae4d3f60ec125776418fc1abf7f2b2611b8737b6b8ef) for 30 days with a 120% strike
+* **Beam holder** lending [\$140k of \$BEAM](https://etherscan.io/tx/0x4fa00e8611f60e149f7bf6f65fcadf94889ecfb9ca147a8538f045d78210ebc2) for 30 days with a 140% strike
+* **Liquity holder** lending [\$150k of \$LQTY](https://etherscan.io/tx/0x408fd3633f8a678b3c42ab0f57bc964e4ce98c016b323c7d564459df3f262dd4) for 90 days with a 110% strike
 
 To see more transactions, please refer to our [stats page](https://app.myso.finance/stats/loans).
 
