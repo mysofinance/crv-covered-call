@@ -1,5 +1,5 @@
 # Curve & MYSO Airdrop #2
-![MYSO Airdrop](airdrop.jpg "MYSO Airdrop")
+![MYSO Airdrop](img/airdrop.jpg "MYSO Airdrop")
 
 **MYSO** is launching the MYSO Token (\$MYT) and distributing tokens to value-aligned communities, including the **Curve DAO**. 
 
@@ -7,7 +7,7 @@
 
 
 ## Why MYSO
-[MYSO's mission](https://www.myso.finance/) is to be the go-to place for advanced yield enhancement strategies, with a particular focus on bespoke **[covered calls](https://cointelegraph.com/explained/covered-call-options-strategy)** and **structured products**. The MYSO v2 protocol has facilitated over \$1.2M in covered calls, including with the [Telos treasury](https://medium.com/mysofinance/first-native-tlos-covered-call-successfully-completed-cbd69f5e6f3d) as well as the [Evmos treasury](https://medium.com/mysofinance/myso-evmos-treasury-debut-covered-call-strategy-512f6f9b2226) (see [past transactions](#past-transactions)).
+[MYSO's mission](https://www.myso.finance/) is to be the go-to place for advanced yield enhancement strategies, with a particular focus on bespoke **[covered calls](https://cointelegraph.com/explained/covered-call-options-strategy)** and **structured products**. The MYSO v2 protocol has facilitated over \$1.2M in covered calls, including with the [Telos treasury](https://medium.com/mysofinance/first-native-tlos-covered-call-successfully-completed-cbd69f5e6f3d) as well as the [Evmos treasury](https://medium.com/mysofinance/myso-evmos-treasury-debut-covered-call-strategy-512f6f9b2226) (see [past transactions](#other-users-of-myso)).
 
 MYSO Finance originated out of the [ETHOnline Hackathon in 2021](https://ethglobal.medium.com/ethonline-2021-8bd473b78b99), where it was awarded as one of the finalists. MYSO closed a [\$2.4M seed round](https://medium.com/mysofinance/myso-closes-2-4m-seed-round-2f4f8114144e) in 2022 with several crypto-native investors such as HashKey, Wintermute, Nexo, and GSR.
 
@@ -29,7 +29,7 @@ Curve token holders can earn extra \$MYT by doing a covered call through MYSO. H
 Note: the \$MYT yield is **on top** of the organic upfront stablecoin premium you earn from the CRV covered call.
 
 
-## Other Users of MYSO {#past-transactions}
+## Other Users of MYSO
 MYSO v2 has been used by numerous token holders and treasuries, for example:
 * Enzyme holder earning ~\$12k USDC (97% APY) for lending [\$150k of \$MLN](https://etherscan.io/tx/0x1a13d7458ccb1611c0f7f75ffe49372b71b797d22a5ad8717bff8f036b04338e) for 30 days with a 110% strike
 * UMA holder earning ~\$7.4k USDC (45% APY) for lending [\$100k of \$UMA](https://etherscan.io/tx/0x2f43a000819fcfb7561e77b0c6a55a45e84f2504ac12ed5c930a1874a28284cc) for 60 days with a 120% strike
@@ -58,13 +58,13 @@ To see more transactions, please refer to our [stats page](https://app.myso.fina
 
 
 ## Indicative APYs for CRV Covered Call
-![CRV Covered Call APYs for various Strikes and Tenors](crv-covered-call-apys.png "CRV Covered Call APYs for various Strikes and Tenors")
+![CRV Covered Call APYs for various Strikes and Tenors](img/crv-covered-call-apys.png "CRV Covered Call APYs for various Strikes and Tenors")
 
 ## CRV Covered Call Payoff Diagram (Example)
-![CRV Covered Call with 110% Strike and 60 Days Tenor](crv-covered-call-110-30d.png "CRV Covered Call with 110% Strike and 60 Days Tenor")
+![CRV Covered Call with 110% Strike and 60 Days Tenor](img/crv-covered-call-110-30d.png "CRV Covered Call with 110% Strike and 60 Days Tenor")
 
 ## Indicative Premiums for CRV Covered Call
-![CRV Covered Call Premiums for various Strikes and Tenors](crv-covered-call-premiums.png "CRV Covered Call Premiums for various Strikes and Tenors")
+![CRV Covered Call Premiums for various Strikes and Tenors](img/crv-covered-call-premiums.png "CRV Covered Call Premiums for various Strikes and Tenors")
 
 ## Indicative Implied Vols for CRV Covered Call
-![CRV Covered Call Implied Vols for various Strikes and Tenors](crv-covered-call-implied-vols.png "CRV Covered Call Implied Vols for various Strikes and Tenors")
+![CRV Covered Call Implied Vols for various Strikes and Tenors](img/crv-covered-call-implied-vols.png "CRV Covered Call Implied Vols for various Strikes and Tenors")
